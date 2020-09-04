@@ -1,0 +1,11 @@
+C:\Users\dhsaifee\source\repos\examplerepo\bin\Debug\netcoreapp3.1\examplerepo.exe
+C:\Users\dhsaifee\source\repos\examplerepo\bin\Debug\netcoreapp3.1\examplerepo.deps.json
+C:\Users\dhsaifee\source\repos\examplerepo\bin\Debug\netcoreapp3.1\examplerepo.runtimeconfig.json
+C:\Users\dhsaifee\source\repos\examplerepo\bin\Debug\netcoreapp3.1\examplerepo.runtimeconfig.dev.json
+C:\Users\dhsaifee\source\repos\examplerepo\bin\Debug\netcoreapp3.1\examplerepo.dll
+C:\Users\dhsaifee\source\repos\examplerepo\bin\Debug\netcoreapp3.1\examplerepo.pdb
+C:\Users\dhsaifee\source\repos\examplerepo\obj\Debug\netcoreapp3.1\examplerepo.csprojAssemblyReference.cache
+C:\Users\dhsaifee\source\repos\examplerepo\obj\Debug\netcoreapp3.1\examplerepo.AssemblyInfoInputs.cache
+C:\Users\dhsaifee\source\repos\examplerepo\obj\Debug\netcoreapp3.1\examplerepo.AssemblyInfo.cs
+C:\Users\dhsaifee\source\repos\examplerepo\obj\Debug\netcoreapp3.1\examplerepo.dll
+C:\Users\dhsaifee\source\repos\examplerepo\obj\Debug\netcoreapp3.1\examplerepo.pdb
